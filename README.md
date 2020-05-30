@@ -1,2 +1,7 @@
 # hello-word
-Just another repository
+
+Hello humans!
+
+I'm learning GitHub. 
+
+
